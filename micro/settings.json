@@ -1,0 +1,26 @@
+{
+    "*": {
+        "comment": false,
+        "diff": false,
+        "ftoptions": false,
+        "linter": false,
+        "literate": false,
+        "status": false
+    },
+    "backup": false,
+    "colorscheme": "terminal-dark-tc",
+    "cursorline": false,
+    "divreverse": false,
+    "fakecursor": true,
+    "hltrailingws": true,
+    "indentchar": "\u003e",
+    "mkparents": true,
+    "relativeruler": true,
+    "rmtrailingws": true,
+    "savehistory": false,
+    "softwrap": true,
+    "statusformatl": "$(filename)$(modified) ($(line),$(col))",
+    "statusformatr": "",
+    "tabreverse": false,
+    "truecolor": "on"
+}

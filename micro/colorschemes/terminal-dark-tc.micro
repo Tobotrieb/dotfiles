@@ -1,0 +1,29 @@
+color-link default "#CCCCCC"
+
+color-link tabbar "#666666,#161616"
+color-link statusline "#666666,#161616"
+color-link divider "#666666,#161616"
+color-link line-number "#666666,#161616"
+color-link current-line-number "#666666,#161616"
+
+color-link indent-char "#333333"
+color-link tab-error "#D75F5F"
+color-link trailingws "#D75F5F"
+
+color-link hlsearch "#282A36,#50FA7B"
+color-link match-brace "#282A36,#FF79C6"
+
+color-link comment "#666666"
+color-link identifier "default"
+color-link constant "#7A9EC2"
+color-link constant.string "#6DA84A"
+color-link statement "#FF79C6"
+color-link symbol "default"
+color-link symbol.operator "#7A9EC2"
+color-link preproc "#FF79C6"
+color-link type "#F4721C"
+color-link special "FF79C6"
+color-link underlined "FF79C6"
+
+color-link error "bold #CB4B16"
+color-link todo "bold #D33682"

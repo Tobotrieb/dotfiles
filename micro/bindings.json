@@ -1,13 +1,7 @@
 {
-    "Alt-/": "lua:comment.comment",
-    "Alt-d": "command:definition",
-    "Alt-f": "command:format",
-    "Alt-k": "command:hover",
-    "Alt-r": "command:references",
     "Ctrl-Down": "ParagraphNext",
     "Ctrl-Up": "ParagraphPrevious",
     "Ctrl-d": "DeleteLine",
     "Ctrl-r": "ShellMode",
-    "CtrlSpace": "PageDown",
-    "CtrlUnderscore": "lua:comment.comment"
+    "Ctrl-b": "",
 }
